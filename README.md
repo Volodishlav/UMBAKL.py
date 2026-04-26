@@ -24,4 +24,4 @@ sudo systemctl enable python3ubuntu.service
 sudo systemctl start python3ubuntu.service
 ```
 
-## All variables can (and should) be modified to suit your preferences. Enjoy :)
+- All variables can (and should) be modified to suit your preferences. Enjoy :)
