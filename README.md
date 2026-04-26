@@ -1,6 +1,9 @@
 # UMBAKL.py - Python keylogger PoC by Volodishlav
 
 This tool is a keylogger for Linux-based operating systems. Just run the ".py" file and the keylogger will start.
+## Reminder
+
+This project is for educational and learning purposes only. It is not intended to be used for any illegal activities. Im not responsible for any misuse or damage caused by it.
 
 ## Set up the tool:
 
