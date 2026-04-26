@@ -1,0 +1,13 @@
+[Unit]
+Description=Python
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/umbakl/.venv/bin/python3 /usr/umbakl/umbakl.py
+Restart=always
+User=root
+WorkingDirectory=/
+
+[Install]
+WantedBy=multi-user.target
