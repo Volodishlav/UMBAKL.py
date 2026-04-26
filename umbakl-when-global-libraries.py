@@ -15,9 +15,6 @@ os.chdir("/usr/umbakl")
 import sys
 import subprocess
 from pathlib import Path
-
-
-    
 import keyboard
 
 pressed = set()
