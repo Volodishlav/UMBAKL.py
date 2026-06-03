@@ -3,8 +3,8 @@
 This is a simple keylogger tool made in python for Linux-based operating systems.
 
 ## Reminder
-
-This project is for educational and learning purposes only. It is not intended to be used for any illegal activities and I'm not responsible for any misuse or damage caused by it.
+> [!WARNING]
+> This project is for educational and learning purposes only. It is not intended to be used for any illegal activities and I'm not responsible for any misuse or damage caused by it.
 
 ## Set up the tool:
 
